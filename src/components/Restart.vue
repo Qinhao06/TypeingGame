@@ -11,6 +11,8 @@
     import { isStart, start, stop } from "../ts/timer"
     import { setTypingWords,  getResult, setResultNotShow} from "../ts/typingWord"
 
+
+    
     function startOrEnd(){
         let button = document.activeElement as HTMLInputElement;
         if( button ){
