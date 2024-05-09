@@ -8,5 +8,5 @@
 
 
 <script setup lang="ts">
-   import {time} from "../js/timer";
-</script>
+   import {time} from "../ts/timer";
+</script>../ts/timer

@@ -8,8 +8,8 @@
 
 
 <script setup lang="ts">
-    import { isStart, start, stop } from "../js/timer"
-    import { setTypingWords,  getResult, setResultNotShow} from "../js/typingWord"
+    import { isStart, start, stop } from "../ts/timer"
+    import { setTypingWords,  getResult, setResultNotShow} from "../ts/typingWord"
 
     function startOrEnd(){
         let button = document.activeElement as HTMLInputElement;
@@ -32,3 +32,4 @@
 
 </script>
 
+../ts/timer../ts/typingWord

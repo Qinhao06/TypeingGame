@@ -25,7 +25,7 @@
 <script setup lang="ts">
 
 
-import {typingWords, setTypingWords, randomWords, typingWordRightOrX, getCoveredWords} from '../js/typingWord'
+import {typingWords, setTypingWords, randomWords, typingWordRightOrX, getCoveredWords} from '../ts/typingWord'
 import { watch, ref } from 'vue';
 
 // or, if desiring a different locale
@@ -50,4 +50,4 @@ import { watch, ref } from 'vue';
         50% {opacity: 0;}
         100% {opacity: 1;}
     }
-</style>
+</style>../ts/typingWord

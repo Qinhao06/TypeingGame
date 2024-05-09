@@ -20,7 +20,7 @@
 
 
 <script setup lang="ts">
-import { result } from '../js/typingWord'
+import { result } from '../ts/typingWord'
 
 
 </script>
@@ -35,4 +35,4 @@ import { result } from '../js/typingWord'
 .fade-leave-to {
     opacity: 0;
 }
-</style>
+</style>../ts/typingWord

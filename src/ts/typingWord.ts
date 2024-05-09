@@ -1,7 +1,7 @@
 
 
 import { ref } from "vue";
-import { isStart, stop, getUsedTime } from "../js/timer";
+import { isStart, stop, getUsedTime } from "./timer";
 import { faker } from '@faker-js/faker';
 
 
